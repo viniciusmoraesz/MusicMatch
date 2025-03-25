@@ -66,3 +66,6 @@ A classe `Principal` contém o método `main()`, onde o fluxo do programa é ini
 - Inclusão dos conteúdos na lista de preferidos.
 
 ## 🛠️ Tecnologias Utilizadas
+
+- **Java**: Linguagem de programação usada para desenvolver o sistema.
+- **Orientação a Objetos**: A aplicação segue os princípios de **POO**, incluindo herança, encapsulamento e polimorfismo.
